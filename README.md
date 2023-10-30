@@ -1,1 +1,1 @@
-# RideShare_OnDemand_MicrosTransit_Algorithms
+# RideShare_OnDemand_MicroTransit_Algorithms
